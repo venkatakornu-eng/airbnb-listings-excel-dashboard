@@ -90,7 +90,7 @@ The project addresses the following business questions:
 > Add the final dashboard screenshot to `images/airbnb-dashboard.png`.
 
 <p align="center">
-  <img src="images/Dashboard.png" alt="Airbnb Listings Excel Dashboard" width="95%">
+  <img src="Images/Dashboard.png" alt="Airbnb Listings Excel Dashboard" width="95%">
 </p>
 
 ### Dashboard components
