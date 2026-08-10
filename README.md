@@ -85,6 +85,14 @@ The project addresses the following business questions:
 
 ---
 
+## Visualisation
+
+### Top 5 Property Types by Listing Count
+
+
+
+
+
 ## Dashboard Preview
 
 <p align="center">
