@@ -90,7 +90,7 @@ The project addresses the following business questions:
 ### Top 5 Property Types by Listing Count
 
 
-![Top 5 Property](Image.pic1)
+![Top 5 Property](Images/pic1.png)
 
 
 
