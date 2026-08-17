@@ -95,6 +95,7 @@ The project addresses the following business questions:
 
 ### List Of Distribution by Check in Period
 
+![List of Distribution](Images/pic2.png)
 
 
 ## Dashboard Preview
