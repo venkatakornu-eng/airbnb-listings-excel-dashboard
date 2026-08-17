@@ -93,6 +93,8 @@ The project addresses the following business questions:
 ![Top 5 Property](Images/pic1.png)
 
 
+### List Of Distribution by Check in Period
+
 
 
 ## Dashboard Preview
